@@ -22,221 +22,221 @@
 ## Lessons
 ### Introduction
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 001 - [Introduction And What I Need To Learn ?]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 01 - [Introduction And What I Need To Learn ?](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/01%20-%20Introduction%20And%20What%20I%20Need%20To%20Learn)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 002 - [Your First Project And Syntax]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 02 - [Your First Project And Syntax](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/02%20-%20Your%20First%20Project%20And%20Syntax)
 
 ### Styling & Naming Classes
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 003 - [Elements Styling]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 03 - [Elements Styling](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/03%20-%20Elements%20Styling)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 004 - [Name Conventions And Rules]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 04 - [Name Conventions And Rules](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/04%20-%20Name%20Conventions%20And%20Rules)
 
 ### Background
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 005 - [Background – Color, Image, Repeat]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 05 - [Background – Color, Image, Repeat](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/05%20-%20Background%20%E2%80%93%20Color%2C%20Image%2C%20Repeat)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 006 - [Background – Attachment, Position, Size]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 06 - [Background – Attachment, Position, Size](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/06%20-%20Background%20%E2%80%93%20Attachment%2C%20Position%2C%20Size)
 
 ### Borders & Outlines & Spaces
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 007 - [Padding]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 07 - [Padding](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/07%20-%20Padding)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 008 - [Margin]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 08 - [Margin](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/08%20-%20Margin)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 009 - [Border]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 09 - [Border](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/09%20-%20Border)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 010 - [Outline]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 10 - [Outline](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/10%20-%20Outline)
 
 ### .
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 011 - [Display – Block, Inline-Block, Inline]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 11 - [Display – Block, Inline-Block, Inline](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/11%20-%20Display%20%E2%80%93%20Block%2C%20Inline-Block%2C%20Inline)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 012 - [Element Visibility And Use Case]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 12 - [Element Visibility And Use Case](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/12%20-%20Element%20Visibility%20And%20Use%20Case)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 013 - [Grouping Multiple Selectors]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 13 - [Grouping Multiple Selectors](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/13%20-%20Grouping%20Multiple%20Selectors)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 014 - [Nesting]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 14 - [Nesting](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/14%20-%20Nesting)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 015 - [Dimensions – Width And Height]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 15 - [Dimensions – Width And Height](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/15%20-%20Dimensions%20%E2%80%93%20Width%20And%20Height)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 016 - [Overflow – Overflow-X And Overflow-Y]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 16 - [Overflow – Overflow-X And Overflow-Y](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/16%20-%20Overflow%20%E2%80%93%20Overflow-X%20And%20Overflow-Y)
 
 ### Text Properties
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 017 - [Text – Color And Shadow]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 17 - [Text – Color And Shadow](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/17%20-%20Text%20%E2%80%93%20Color%20And%20Shadow)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 018 - [Text – Alignment]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 18 - [Text – Alignment](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/18%20-%20Text%20%E2%80%93%20Alignment)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 019 - [Text – Decoration And Transform]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 19 - [Text – Decoration And Transform](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/19%20-%20Text%20%E2%80%93%20Decoration%20And%20Transform)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 020 - [Text – Spacing]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 20 - [Text – Spacing](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/20%20-%20Text%20%E2%80%93%20Spacing)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 021 - [Text – Overflow And Use Cases]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 21 - [Text – Overflow And Use Cases](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/21%20-%20Text%20%E2%80%93%20Overflow%20And%20Use%20Cases)
 
 ### Inheritance
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 022 - [Inheritance]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 22 - [Inheritance](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/22%20-%20Inheritance)
 
 ### Typography
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 023 - [Typography – Font Family]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 23 - [Typography – Font Family](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/23%20-%20Typography%20%E2%80%93%20Font%20Family)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 024 - [Typography – Font Size And CSS Units]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 24 - [Typography – Font Size And CSS Units](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/24%20-%20Typography%20%E2%80%93%20Font%20Size%20And%20CSS%20Units)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 025 - [Typography – Font Style And Variant And Weight]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 25 - [Typography – Font Style And Variant And Weight](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/25%20-%20Typography%20%E2%80%93%20Font%20Style%20And%20Variant%20And%20Weight)
 
 ### .
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 026 - [Mouse Cursor]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 26 - [Mouse Cursor](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/26%20-%20Mouse%20Cursor)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 027 - [Float And Clear]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 27 - [Float And Clear](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/27%20-%20Float%20And%20Clear)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 028 - [Mastering The CSS Calculation]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 28 - [Mastering The CSS Calculation](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/28%20-%20Mastering%20The%20CSS%20Calculation)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 029 - [Opacity]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 29 - [Opacity](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/29%20-%20Opacity)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 030 - [Position]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 30 - [Position](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/30%20-%20Position)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 031 - [Z-Index]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 31 - [Z-Index](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/31%20-%20Z-Index)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 032 - [List Styling]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 32 - [List Styling](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/32%20-%20List%20Styling)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 033 - [Table Styling]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 33 - [Table Styling](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/33%20-%20Table%20Styling)
 
 ### Pseudo
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 034 - [Pseudo Classes]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 34 - [Pseudo Classes](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/34%20-%20Pseudo%20Classes)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 035 - [Pseudo Elements – First Letter, First Line, Selection]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 35 - [Pseudo Elements – First Letter, First Line, Selection](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/35%20-%20Pseudo%20Elements%20%E2%80%93%20First%20Letter%2C%20First%20Line%2C%20Selection)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 036 - [Pseudo Elements – Before, After, Content]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 36 - [Pseudo Elements – Before, After, Content](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/36%20-%20Pseudo%20Elements%20%E2%80%93%20Before%2C%20After%2C%20Content)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 037 - [Pseudo Elements – Content And Trainings]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 37 - [Pseudo Elements – Content And Trainings](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/37%20-%20Pseudo%20Elements%20%E2%80%93%20Content%20And%20Trainings)
 
 ### .
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 038 - [Vendor Prefixes]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 38 - [Vendor Prefixes](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/38%20-%20Vendors%20Prefixes)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 039 - [Border Radius]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 39 - [Border Radius](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/39%20-%20Border%20Radius)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 040 - [Box Shadows And Examples]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 40 - [Box Shadows And Examples](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/40%20-%20Box%20Shadows%20And%20Examples)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 041 - [The Box Model And Box Sizing]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 41 - [The Box Model And Box Sizing](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/41%20-%20The%20Box%20Model%20And%20Box%20Sizing)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 042 - [Transition]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 42 - [Transition](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/42%20-%20Transition)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 043 - [!important Declaration And Use Cases]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 43 - [!important Declaration And Use Cases](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/43%20-%20!Important%20Declaration%20And%20Use%20Cases)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 044 - [The Margin Collapse]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 44 - [The Margin Collapse](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/44%20-%20The%20Margin%20Collapse)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 045 - [CSS Variables And Trainings]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 45 - [CSS Variables And Trainings](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/45%20-%20CSS%20Variables%20And%20Trainings)
 
 ### Flexible Box
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 046 - [Flex Box – Parent – Direction, Wrap, Flow]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 46 - [Flex Box – Parent – Direction, Wrap, Flow](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/46%20-%20Flex%20Box%20%E2%80%93%20Parent%20%E2%80%93%20Direction%2C%20Wrap%2C%20Flow)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 047 - [Flex Box – Parent – Justify Content]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 47 - [Flex Box – Parent – Justify Content](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/47%20-%20Flex%20Box%20%E2%80%93%20Parent%20%E2%80%93%20Justify%20Content)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 048 - [Flex Box – Parent – Align Items]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 48 - [Flex Box – Parent – Align Items](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/48%20-%20Flex%20Box%20%E2%80%93%20Parent%20%E2%80%93%20Align%20Items)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 049 - [Flex Box – Parent – Align Content]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 49 - [Flex Box – Parent – Align Content](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/49%20-%20Flex%20Box%20%E2%80%93%20Parent%20%E2%80%93%20Align%20Content)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 050 - [Flex Box – Child – Grow, Shrink, Order]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 50 - [Flex Box – Child – Grow, Shrink, Order](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/50%20-%20Flex%20Box%20%E2%80%93%20Child%20%E2%80%93%20Grow%2C%20Shrink%2C%20Order)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 051 - [Flex Box – Child – Flex Basis, Flex Shorthand]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 51 - [Flex Box – Child – Flex Basis, Flex Shorthand](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/51%20-%20Flex%20Box%20%E2%80%93%20Child%20%E2%80%93%20Flex%20Basis%2C%20Flex%20Shorthand)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 052 - [Flex Box – Child – Align Self And Task]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 52 - [Flex Box – Child – Align Self And Task](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/52%20-%20Flex%20Box%20%E2%80%93%20Child%20%E2%80%93%20Align%20Self%20And%20Task)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 053 - [Flex Box – Finish The Flex Froggy Game]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 53 - [Flex Box – Finish The Flex Froggy Game](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/53%20-%20Flex%20Box%20%E2%80%93%20Finish%20The%20Flex%20Froggy%20Game)
 
 ### Filters & Color Gradients & Pointer Events - Color
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 054 - [Filters]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 54 - [Filters](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/54%20-%20Filters)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 055 - [Gradients]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 55 - [Gradients](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/55%20-%20Gradients)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 056 - [Pointer Event and Caret Color]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 56 - [Pointer Event and Caret Color](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/56%20-%20Pointer%20Event%20and%20Caret%20Color)
 
 ### Grid
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 057 - [Grid – Parent – Template Columns]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 57 - [Grid – Parent – Template Columns](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/57%20-%20Grid%20%E2%80%93%20Parent%20%E2%80%93%20Template%20Columns)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 058 - [Grid – Parent – Template Rows And Gap]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 58 - [Grid – Parent – Template Rows And Gap](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/58%20-%20Grid%20%E2%80%93%20Parent%20%E2%80%93%20Template%20Rows%20And%20Gap)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 059 - [Grid – Parent – Justify And Align Content]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 59 - [Grid – Parent – Justify And Align Content](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/59%20-%20Grid%20%E2%80%93%20Parent%20%E2%80%93%20Justify%20And%20Align%20Content)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 060 - [Grid – Parent – Complete Layout With Template Areas]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 60 - [Grid – Parent – Complete Layout With Template Areas](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/60%20-%20Grid%20%E2%80%93%20Parent%20%E2%80%93%20Complete%20Layout%20With%20Template%20Areas)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 061 - [Grid – Child – Grid Column And Row]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 61 - [Grid – Child – Grid Column And Row](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/61%20-%20Grid%20%E2%80%93%20Child%20%E2%80%93%20Grid%20Column%20And%20Row)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 062 - [Grid – Child – Grid Area And Trainings]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 62 - [Grid – Child – Grid Area And Trainings](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/62%20-%20Grid%20%E2%80%93%20Child%20%E2%80%93%20Grid%20Area%20And%20Trainings)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 063 - [Grid – Min, Max And Autofill]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 63 - [Grid – Min, Max And Autofill](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/63%20-%20Grid%20%E2%80%93%20Min%2C%20Max%20And%20Autofill)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 064 - [Finish The Grid Garden Game]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 64 - [Finish The Grid Garden Game](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/64%20-%20Finish%20The%20Grid%20Garden%20Game)
 
 ### 2D Transform
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 065 - [2D Transform – Scale]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 65 - [2D Transform – Scale](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/65%20-%202D%20Transform%20%E2%80%93%20Scale)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 066 - [2D Transform – Rotate]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 66 - [2D Transform – Rotate](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/66%20-%202D%20Transform%20%E2%80%93%20Rotate)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 067 - [2D Transform – Translate]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 67 - [2D Transform – Translate](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/67%20-%202D%20Transform%20%E2%80%93%20Translate)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 068 - [2D Transform – Skew]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 68 - [2D Transform – Skew](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/68%20-%202D%20Transform%20%E2%80%93%20Skew)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 069 - [2D Transform - Matrix]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 69 - [2D Transform - Matrix](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/69%20-%202D%20Transform%20%E2%80%93%20Matrix)
 
 ### Transform Location
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 070 - [Transform Origin]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 70 - [Transform Origin](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/70%20-%20Transform%20Origin)
 
 ### 3D Transform
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 071 - [3D Transform – Rotate]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 71 - [3D Transform – Rotate](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/71%20-%203D%20Transform%20%E2%80%93%20Rotate)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 072 - [3D Transform – Translate, Perspective, Perspective Origin]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 72 - [3D Transform – Translate, Perspective, Perspective Origin](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/72%20-%203D%20Transform%20%E2%80%93%20Translate%2C%20Perspective%2C%20Perspective%20Origin)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 073 - [3D Transform – Backface Visibility And Flip Product]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 73 - [3D Transform – Backface Visibility And Flip Product](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/73%20-%203D%20Transform%20%E2%80%93%20Backface%20Visibility%20And%20Flip%20Product)
 
 ### Animation
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 074 - [Animation – KeyFrames, Name, Duration]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 74 - [Animation – KeyFrames, Name, Duration](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/74%20-%20Animation%20%E2%80%93%20KeyFrames%2C%20Name%2C%20Duration)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 075 - [Animation – Iteration Count, Timing Function, Spinner Loading]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 75 - [Animation – Iteration Count, Timing Function, Spinner Loading](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/75%20-%20Animation%20%E2%80%93%20Iteration%20Count%2C%20Timing%20Function%2C%20Spinner%20Loading)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 076 - [Animation – Direction, Fill Mode, Play State, Delay]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 76 - [Animation – Direction, Fill Mode, Play State, Delay](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/76%20-%20Animation%20%E2%80%93%20Direction%2C%20Fill%20Mode%2C%20Play%20State%2C%20Delay)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 077 - [Up And Down Loading Animation Training]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 77 - [Up And Down Loading Animation Training](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/77%20-%20Up%20And%20Down%20Loading%20Animation%20Training)
 
 ### Advanced Selectors
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 078 - [Selectors Reference Part 1]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 78 - [Selectors Reference Part 1](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/78%20-%20Selectors%20Reference%20Part%201)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 079 - [Selectors Reference Part 2]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 79 - [Selectors Reference Part 2](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/79%20-%20Selectors%20Reference%20Part%202)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 080 - [Selectors Reference Part 3]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 80 - [Selectors Reference Part 3](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/80%20-%20Selectors%20Reference%20Part%203)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 081 - [Selectors Reference Part 4]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 81 - [Selectors Reference Part 4](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/81%20-%20Selectors%20Reference%20Part%204)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 082 - [Selectors Reference Part 5]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 82 - [Selectors Reference Part 5](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/82%20-%20Selectors%20Reference%20Part%205)
 
 ### Media Queries And Responsive Design
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 083 - [Media Queries And Responsive Design – Introduction]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 83 - [Media Queries And Responsive Design – Introduction](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/83%20-%20Media%20Queries%20And%20Responsive%20Design%20%E2%80%93%20Introduction)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 084 - [Media Queries And Responsive Design – Standards]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 84 - [Media Queries And Responsive Design – Standards](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/84%20-%20Media%20Queries%20And%20Responsive%20Design%20%E2%80%93%20Standards)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 085 - [Media Queries And Responsive Design – Practice]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 85 - [Media Queries And Responsive Design – Practice](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/85%20-%20Media%20Queries%20And%20Responsive%20Design%20%E2%80%93%20Practice)
 
 ### Course Outro
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 086 - [Create Your Framework]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 86 - [Create Your Framework](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/86%20-%20Create%20Your%20Framework)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 087 - [CSS Global Values]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 87 - [CSS Global Values](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/87%20-%20CSS%20Global%20Values)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 088 - [The End And How To Master HTML And CSS]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 88 - [The End And How To Master HTML And CSS](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/88%20-%20The%20End%20And%20How%20To%20Master%20HTML%20And%20CSS)
 
 ---
 
