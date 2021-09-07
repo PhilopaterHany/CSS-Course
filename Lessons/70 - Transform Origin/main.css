@@ -1,0 +1,36 @@
+/*
+    transform-origin
+        Syntax
+            Default Values => 50% 50% 0
+            2D Transform => transform-origin(X, Y)
+            3D Transform => transform-origin(X, Y, Z)
+                X-Axis
+                    - CSS Unit [px, em, rem]
+                    - %
+                    - Keyword
+                        -- Left = 0%
+                        -- Center = 50%
+                        -- Right = 100%
+                Y-Axis
+                    - CSS Unit [px, em, rem]
+                    - %
+                    - Keyword
+                        -- Top = 0%
+                        -- Center = 50%
+                        -- Bottom = 100%
+*/
+
+div {
+    margin: 200px auto;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(255 0 0 / 39%);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 30px;
+    transform-origin: 0 50%;
+    transform: rotate(100deg);
+}

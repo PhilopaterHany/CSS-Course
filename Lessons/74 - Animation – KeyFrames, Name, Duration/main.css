@@ -1,0 +1,66 @@
+/*
+    Animation
+        - KeyFrames
+        - Name
+        - Duration
+*/
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+div {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    animation-name: change-color;
+    animation-duration: 2s;
+}
+/* Code One */
+@keyframes change-color {
+    from {
+        background-color: red;
+    }
+    to {
+        background-color: blue;
+    }
+}
+/* Code Two */
+@keyframes change-color {
+    0% {
+        background-color: red;
+    }
+    100% {
+        background-color: blue;
+    }
+}
+/* Code Three */
+@keyframes change-color {
+    0% {
+        background-color: red;
+    }
+    5% {
+        background-color: blue;
+    }
+    80% {
+        background-color: black;
+    }
+    100% {
+        background-color: red;
+    }
+}

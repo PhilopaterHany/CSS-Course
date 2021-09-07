@@ -1,0 +1,16 @@
+/*
+    Filters
+*/
+
+* {
+    box-sizing: border-box;
+}
+img {
+    transition: 0.3s;
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+}
+img:hover {
+    filter: grayscale(0);
+    -webkit-filter: grayscale(0);
+}

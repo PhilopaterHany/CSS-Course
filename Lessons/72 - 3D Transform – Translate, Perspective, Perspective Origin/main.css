@@ -1,0 +1,20 @@
+.shape {
+    perspective: 300px;
+    perspective-origin: center center;
+}
+.shape div {
+    margin: 200px auto;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(255 0 0 / 39%);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 30px;
+    transform: translate(100px, -100px);
+    transform: translateX(100px);
+    transform: translateZ(100px);
+    transform: translate3d(0, 0, 100px);
+}

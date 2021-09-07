@@ -1,0 +1,13 @@
+/*
+    CSS Selectors
+        - *
+        - Element => [p, div, h2]
+        - Element OtherElement => div p
+        - .class-name
+        - #id-name
+        - .parent .child
+        - .class-one.class-two
+        - .class-name div, .class-name p
+        - Element.class-name => p.class-name
+        - .parent > .child => Direct Child
+*/
