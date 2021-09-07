@@ -242,45 +242,45 @@
 
 ## Assignments
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Solved` - [Assignments For Lessons From [ 01 ] To [ 04 ]](https://elzero.org/css-assignments-lesson-from-1-to-4/) => [Solution]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Solved` - [Assignments For Lessons From [ 01 ] To [ 04 ]](https://elzero.org/css-assignments-lesson-from-1-to-4/) => [Solution](https://github.com/PhilopaterHany/CSS-Course/tree/main/Assignments/Assignments%20From%20%5B%2001%20%5D%20To%20%5B%2004%20%5D)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Solved` - [Assignments For Lessons From [ 05 ] To [ 08 ]](https://elzero.org/css-assignments-lesson-from-5-to-8/) => [Solution]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Solved` - [Assignments For Lessons From [ 05 ] To [ 08 ]](https://elzero.org/css-assignments-lesson-from-5-to-8/) => [Solution](https://github.com/PhilopaterHany/CSS-Course/tree/main/Assignments/Assignments%20From%20%5B%2005%20%5D%20To%20%5B%2008%20%5D)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Solved` - [Assignments For Lessons From [ 09 ] To [ 12 ]](https://elzero.org/css-assignments-lesson-from-9-to-12/) => [Solution]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Solved` - [Assignments For Lessons From [ 09 ] To [ 12 ]](https://elzero.org/css-assignments-lesson-from-9-to-12/) => [Solution](https://github.com/PhilopaterHany/CSS-Course/tree/main/Assignments/Assignments%20From%20%5B%2009%20%5D%20To%20%5B%2012%20%5D)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Solved` - [Assignments For Lessons From [ 13 ] To [ 16 ]](https://elzero.org/css-assignments-lesson-from-13-to-16/) => [Solution]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Solved` - [Assignments For Lessons From [ 13 ] To [ 16 ]](https://elzero.org/css-assignments-lesson-from-13-to-16/) => [Solution](https://github.com/PhilopaterHany/CSS-Course/tree/main/Assignments/Assignments%20From%20%5B%2013%20%5D%20To%20%5B%2016%20%5D)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Solved` - [Assignments For Lessons From [ 17 ] To [ 21 ]](https://elzero.org/css-assignments-lesson-from-17-to-21/) => [Solution]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Solved` - [Assignments For Lessons From [ 17 ] To [ 21 ]](https://elzero.org/css-assignments-lesson-from-17-to-21/) => [Solution](https://github.com/PhilopaterHany/CSS-Course/tree/main/Assignments/Assignments%20From%20%5B%2017%20%5D%20To%20%5B%2021%20%5D)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Solved` - [Assignments For Lessons From [ 22 ] To [ 26 ]](https://elzero.org/css-assignments-lesson-from-22-to-26/) => [Solution]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Solved` - [Assignments For Lessons From [ 22 ] To [ 26 ]](https://elzero.org/css-assignments-lesson-from-22-to-26/) => [Solution](https://github.com/PhilopaterHany/CSS-Course/tree/main/Assignments/Assignments%20From%20%5B%2022%20%5D%20To%20%5B%2026%20%5D)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Solved` - [Assignments For Lessons From [ 27 ] To [ 29 ]](https://elzero.org/css-assignments-lesson-from-27-to-29/) => [Solution]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Solved` - [Assignments For Lessons From [ 27 ] To [ 29 ]](https://elzero.org/css-assignments-lesson-from-27-to-29/) => [Solution](https://github.com/PhilopaterHany/CSS-Course/tree/main/Assignments/Assignments%20From%20%5B%2027%20%5D%20To%20%5B%2029%20%5D)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Solved` - [Assignments For Lessons From [ 30 ] To [ 33 ]](https://elzero.org/css-assignments-lesson-from-30-to-33/) => [Solution]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Solved` - [Assignments For Lessons From [ 30 ] To [ 33 ]](https://elzero.org/css-assignments-lesson-from-30-to-33/) => [Solution](https://github.com/PhilopaterHany/CSS-Course/tree/main/Assignments/Assignments%20From%20%5B%2030%20%5D%20To%20%5B%2033%20%5D)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Solved` - [Assignments For Lessons From [ 34 ] To [ 37 ]](https://elzero.org/css-assignments-lesson-from-34-to-37/) => [Solution]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Solved` - [Assignments For Lessons From [ 34 ] To [ 37 ]](https://elzero.org/css-assignments-lesson-from-34-to-37/) => [Solution](https://github.com/PhilopaterHany/CSS-Course/tree/main/Assignments/Assignments%20From%20%5B%2034%20%5D%20To%20%5B%2037%20%5D)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Solved` - [Assignments For Lessons From [ 38 ] To [ 41 ]](https://elzero.org/css-assignments-lesson-from-38-to-41/) => [Solution]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Solved` - [Assignments For Lessons From [ 38 ] To [ 41 ]](https://elzero.org/css-assignments-lesson-from-38-to-41/) => [Solution](https://github.com/PhilopaterHany/CSS-Course/tree/main/Assignments/Assignments%20From%20%5B%2038%20%5D%20To%20%5B%2041%20%5D)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Solved` - [Assignments For Lessons From [ 42 ] To [ 45 ]](https://elzero.org/css-assignments-lesson-from-42-to-45/) => [Solution]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Solved` - [Assignments For Lessons From [ 42 ] To [ 45 ]](https://elzero.org/css-assignments-lesson-from-42-to-45/) => [Solution](https://github.com/PhilopaterHany/CSS-Course/tree/main/Assignments/Assignments%20From%20%5B%2042%20%5D%20To%20%5B%2045%20%5D)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Solved` - [Assignments For Lessons From [ 46 ] To [ 53 ]](https://elzero.org/css-assignments-lesson-from-46-to-53/) => [Solution]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Solved` - [Assignments For Lessons From [ 46 ] To [ 53 ]](https://elzero.org/css-assignments-lesson-from-46-to-53/) => [Solution](https://github.com/PhilopaterHany/CSS-Course/tree/main/Assignments/Assignments%20From%20%5B%2046%20%5D%20To%20%5B%2053%20%5D)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Solved` - [Assignments For Lessons From [ 54 ] To [ 56 ]](https://elzero.org/css-assignments-lesson-from-54-to-56/) => [Solution]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Solved` - [Assignments For Lessons From [ 54 ] To [ 56 ]](https://elzero.org/css-assignments-lesson-from-54-to-56/) => [Solution](https://github.com/PhilopaterHany/CSS-Course/tree/main/Assignments/Assignments%20From%20%5B%2054%20%5D%20To%20%5B%2056%20%5D)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Solved` - [Assignments For Lessons From [ 57 ] To [ 64 ]](https://elzero.org/css-assignments-lesson-from-57-to-64/) => [Solution]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Solved` - [Assignments For Lessons From [ 57 ] To [ 64 ]](https://elzero.org/css-assignments-lesson-from-57-to-64/) => [Solution](https://github.com/PhilopaterHany/CSS-Course/tree/main/Assignments/Assignments%20From%20%5B%2057%20%5D%20To%20%5B%2064%20%5D)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Solved` - [Assignments For Lessons From [ 65 ] To [ 67 ]](https://elzero.org/css-assignments-lesson-from-65-to-67/) => [Solution]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Solved` - [Assignments For Lessons From [ 65 ] To [ 67 ]](https://elzero.org/css-assignments-lesson-from-65-to-67/) => [Solution](https://github.com/PhilopaterHany/CSS-Course/tree/main/Assignments/Assignments%20From%20%5B%2065%20%5D%20To%20%5B%2067%20%5D)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Solved` - [Assignments For Lessons From [ 68 ] To [ 73 ]](https://elzero.org/css-assignments-lesson-from-68-to-73/) => [Solution]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Solved` - [Assignments For Lessons From [ 68 ] To [ 73 ]](https://elzero.org/css-assignments-lesson-from-68-to-73/) => [Solution](https://github.com/PhilopaterHany/CSS-Course/tree/main/Assignments/Assignments%20From%20%5B%2068%20%5D%20To%20%5B%2073%20%5D)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Solved` - [Assignments For Lessons From [ 74 ] To [ 77 ]](https://elzero.org/css-assignments-lesson-from-74-to-77/) => [Solution]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Solved` - [Assignments For Lessons From [ 74 ] To [ 77 ]](https://elzero.org/css-assignments-lesson-from-74-to-77/) => [Solution](https://github.com/PhilopaterHany/CSS-Course/tree/main/Assignments/Assignments%20From%20%5B%2074%20%5D%20To%20%5B%2077%20%5D)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Solved` - [Assignments For Lessons From [ 78 ] To [ 82 ]](https://elzero.org/css-assignments-lesson-from-78-to-82/) => [Solution]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Solved` - [Assignments For Lessons From [ 78 ] To [ 82 ]](https://elzero.org/css-assignments-lesson-from-78-to-82/) => [Solution](https://github.com/PhilopaterHany/CSS-Course/tree/main/Assignments/Assignments%20From%20%5B%2078%20%5D%20To%20%5B%2082%20%5D)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Solved` - [Assignments For Lessons From [ 83 ] To [ 85 ]](https://elzero.org/css-assignments-lesson-from-83-to-85/) => [Solution]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Solved` - [Assignments For Lessons From [ 83 ] To [ 85 ]](https://elzero.org/css-assignments-lesson-from-83-to-85/) => [Solution](https://github.com/PhilopaterHany/CSS-Course/tree/main/Assignments/Assignments%20From%20%5B%2083%20%5D%20To%20%5B%2085%20%5D)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Solved` - [Assignments For Lessons From [ 86 ] To [ 88 ]](https://elzero.org/css-assignments-lesson-from-86-to-88/) => [Solution]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Solved` - [Assignments For Lessons From [ 86 ] To [ 88 ]](https://elzero.org/css-assignments-lesson-from-86-to-88/) => [Solution](https://github.com/PhilopaterHany/CSS-Course/tree/main/Assignments/Assignments%20From%20%5B%2086%20%5D%20To%20%5B%2088%20%5D)
 
 ---
 ---
