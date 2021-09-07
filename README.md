@@ -20,184 +20,225 @@
 
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 001 - []()
+### Introduction
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 002 - []()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 001 - [Introduction And What I Need To Learn ?]()
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 003 - []()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 002 - [Your First Project And Syntax]()
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 004 - []()
+### Styling & Naming Classes
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 005 - []()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 003 - [Elements Styling]()
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 006 - []()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 004 - [Name Conventions And Rules]()
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 007 - []()
+### Background
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 008 - []()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 005 - [Background – Color, Image, Repeat]()
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 009 - []()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 006 - [Background – Attachment, Position, Size]()
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 010 - []()
+### Borders & Outlines & Spaces
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 011 - []()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 007 - [Padding]()
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 012 - []()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 008 - [Margin]()
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 013 - []()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 009 - [Border]()
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 014 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 015 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 016 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 017 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 018 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 019 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 020 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 021 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 022 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 023 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 024 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 025 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 026 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 027 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 028 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 029 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 030 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 031 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 032 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 033 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 034 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 035 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 036 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 037 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 038 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 039 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 040 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 041 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 042 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 043 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 044 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 045 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 046 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 047 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 048 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 049 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 050 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 051 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 052 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 053 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 054 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 055 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 056 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 057 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 058 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 059 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 060 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 061 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 062 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 063 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 064 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 065 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 066 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 067 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 068 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 069 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 070 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 071 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 072 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 073 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 074 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 075 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 076 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 077 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 078 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 079 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 080 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 081 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 082 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 083 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 084 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 085 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 086 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 087 - []()
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 088 - []()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 010 - [Outline]()
 
 ---
 
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 011 - [Display – Block, Inline-Block, Inline]()
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 012 - [Element Visibility And Use Case]()
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 013 - [Grouping Multiple Selectors]()
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 014 - [Nesting]()
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 015 - [Dimensions – Width And Height]()
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 016 - [Overflow – Overflow-X And Overflow-Y]()
+
+### Text Properties
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 017 - [Text – Color And Shadow]()
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 018 - [Text – Alignment]()
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 019 - [Text – Decoration And Transform]()
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 020 - [Text – Spacing]()
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 021 - [Text – Overflow And Use Cases]()
+
+---
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 022 - [Inheritance]()
+
+### Typography
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 023 - [Typography – Font Family]()
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 024 - [Typography – Font Size And CSS Units]()
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 025 - [Typography – Font Style And Variant And Weight]()
+
+---
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 026 - [Mouse Cursor]()
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 027 - [Float And Clear]()
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 028 - [Mastering The CSS Calculation]()
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 029 - [Opacity]()
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 030 - [Position]()
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 031 - [Z-Index]()
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 032 - [List Styling]()
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 033 - [Table Styling]()
+
+### Pseudo
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 034 - [Pseudo Classes]()
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 035 - [Pseudo Elements – First Letter, First Line, Selection]()
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 036 - [Pseudo Elements – Before, After, Content]()
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 037 - [Pseudo Elements – Content And Trainings]()
+
+---
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 038 - [Vendor Prefixes]()
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 039 - [Border Radius]()
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 040 - [Box Shadows And Examples]()
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 041 - [The Box Model And Box Sizing]()
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 042 - [Transition]()
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 043 - [!important Declaration And Use Cases]()
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 044 - [The Margin Collapse]()
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 045 - [CSS Variables And Trainings]()
+
+### Flexible Box
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 046 - [Flex Box – Parent – Direction, Wrap, Flow]()
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 047 - [Flex Box – Parent – Justify Content]()
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 048 - [Flex Box – Parent – Align Items]()
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 049 - [Flex Box – Parent – Align Content]()
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 050 - [Flex Box – Child – Grow, Shrink, Order]()
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 051 - [Flex Box – Child – Flex Basis, Flex Shorthand]()
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 052 - [Flex Box – Child – Align Self And Task]()
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 053 - [Flex Box – Finish The Flex Froggy Game]()
+
+---
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 054 - [Filters]()
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 055 - [Gradients]()
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 056 - [Pointer Event and Caret Color]()
+
+### Grid
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 057 - [Grid – Parent – Template Columns]()
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 058 - [Grid – Parent – Template Rows And Gap]()
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 059 - [Grid – Parent – Justify And Align Content]()
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 060 - [Grid – Parent – Complete Layout With Template Areas]()
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 061 - [Grid – Child – Grid Column And Row]()
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 062 - [Grid – Child – Grid Area And Trainings]()
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 063 - [Grid – Min, Max And Autofill]()
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 064 - [Finish The Grid Garden Game]()
+
+### 2D Transform
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 065 - [2D Transform – Scale]()
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 066 - [2D Transform – Rotate]()
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 067 - [2D Transform – Translate]()
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 068 - [2D Transform – Skew]()
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 069 - [2D Transform - Matrix]()
+
+### Transform Location
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 070 - [Transform Origin]()
+
+### 3D Transform
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 071 - [3D Transform – Rotate]()
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 072 - [3D Transform – Translate, Perspective, Perspective Origin]()
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 073 - [3D Transform – Backface Visibility And Flip Product]()
+
+### Animation
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 074 - [Animation – KeyFrames, Name, Duration]()
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 075 - [Animation – Iteration Count, Timing Function, Spinner Loading]()
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 076 - [Animation – Direction, Fill Mode, Play State, Delay]()
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 077 - [Up And Down Loading Animation Training]()
+
+### Advanced Selectors
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 078 - [Selectors Reference Part 1]()
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 079 - [Selectors Reference Part 2]()
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 080 - [Selectors Reference Part 3]()
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 081 - [Selectors Reference Part 4]()
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 082 - [Selectors Reference Part 5]()
+
+### Media Queries And Responsive Design
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 083 - [Media Queries And Responsive Design – Introduction]()
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 084 - [Media Queries And Responsive Design – Standards]()
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 085 - [Media Queries And Responsive Design – Practice]()
+
+### Course Outro
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 086 - [Create Your Framework]()
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 087 - [CSS Global Values]()
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 088 - [The End And How To Master HTML And CSS]()
+
+---
 ---
 
 ## Assignments
