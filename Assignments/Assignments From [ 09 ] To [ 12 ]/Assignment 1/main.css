@@ -1,0 +1,18 @@
+div {
+    display: inline-block;
+    background-color: #d4d4d4;
+    padding: 15px;
+    margin: 15px;
+    outline: 5px solid #000;
+}
+.sh1 {
+    border: 5px solid #f00;
+}
+.sh2 {
+    border: 5px solid;
+    border-color: #00f #0f0;
+}
+.sh3 {
+    border: 5px dashed;
+    border-color: #0288d1 #009688 #e91e63 #ffee00;
+}

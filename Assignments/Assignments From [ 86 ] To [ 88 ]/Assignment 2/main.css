@@ -1,0 +1,60 @@
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column wrap;
+}
+.main div {
+    background-color: #ddd;
+    margin: 20px auto;
+    padding: 20px;
+    width: 400px;
+    text-align: center;
+    font: bold 20px sans-serif;
+    margin-bottom: 40px;
+    position: relative;
+}
+.arrow:before {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    border: 15px solid;
+    border-color: red green blue black;
+}
+.top:before {
+    position: absolute;
+    border-color: transparent transparent #ddd transparent;
+    transform: translate(-50%, -200%);
+    -webkit-transform: translate(-50%, -200%);
+    -moz-transform: translate(-50%, -200%);
+    -ms-transform: translate(-50%, -200%);
+    -o-transform: translate(-50%, -200%);
+}
+.right:before {
+    position: absolute;
+    border-color: transparent transparent transparent #ddd;
+    transform: translate(730%, -50%);
+    -webkit-transform: translate(730%, -50%);
+    -moz-transform: translate(730%, -50%);
+    -ms-transform: translate(730%, -50%);
+    -o-transform: translate(730%, -50%);
+}
+.bottom:before {
+    position: absolute;
+    border-color: #ddd transparent transparent transparent;
+    transform: translate(-40%, 100%);
+    -webkit-transform: translate(-40%, 100%);
+    -moz-transform: translate(-40%, 100%);
+    -ms-transform: translate(-40%, 100%);
+    -o-transform: translate(-40%, 100%);
+}
+.left:before {
+    position: absolute;
+    border-color: transparent #ddd transparent transparent;
+    transform: translate(-830%, -50%);
+    -webkit-transform: translate(-830%, -50%);
+    -moz-transform: translate(-830%, -50%);
+    -ms-transform: translate(-830%, -50%);
+    -o-transform: translate(-830%, -50%);
+}

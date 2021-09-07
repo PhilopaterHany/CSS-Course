@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Cairo&family=Jomhuria&family=Open+Sans:ital,wght@1,300&display=swap");
+/*
+    You Can Import The Font In HTML File As Well:
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cairo&family=Jomhuria&family=Open+Sans:ital,wght@1,300&display=swap" />
+*/
+.p1,
+.p2,
+.p3 {
+    text-transform: capitalize;
+    text-align: center;
+    font-size: 50px;
+}
+.p1 {
+    font-family: "Open Sans";
+    font-weight: 300;
+    font-style: italic;
+}
+.p2 {
+    font-family: "Cairo";
+    font-weight: 700;
+}
+.p3 {
+    font-family: "Jomhuria";
+    font-weight: 400;
+}

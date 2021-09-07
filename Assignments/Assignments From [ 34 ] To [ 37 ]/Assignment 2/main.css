@@ -1,0 +1,22 @@
+div {
+    position: relative;
+    width: 400px;
+    padding: 20px;
+    margin: 10px auto;
+    background-color: #d4d4d4;
+    font-size: 20px;
+}
+div:first-letter {
+    font-size: 0px;
+    /*   OR   */
+    visibility: hidden;
+}
+div::before {
+    content: "1";
+    position: absolute;
+    top: 5px;
+    left: -15px;
+    padding: 15px 10px;
+    background-color: #009688;
+    color: #fff;
+}

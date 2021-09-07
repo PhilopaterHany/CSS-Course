@@ -1,0 +1,13 @@
+div {
+    width: 400px !important;
+    margin: 10px auto;
+    background-color: #ccc !important;
+    color: #000 !important;
+    font-size: 0px !important;
+    border: none !important;
+    text-align: center;
+}
+div:before {
+    content: "Elzero";
+    font: bold 22px sans-serif;
+}

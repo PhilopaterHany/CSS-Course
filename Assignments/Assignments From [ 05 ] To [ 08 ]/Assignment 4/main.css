@@ -1,0 +1,46 @@
+.assign-4-shape-1 {
+    width: 400px;
+    height: 400px;
+    padding: 20px;
+    margin: 20px auto;
+    color: white;
+    background-image: url(https://elzero.org/wp-content/uploads/2021/02/css-assignment-5-8.png);
+    background-repeat: no-repeat;
+    background-size: 80%;
+    background-color: #ccc;
+}
+.assign-4-shape-2 {
+    width: 400px;
+    height: 400px;
+    padding: 20px;
+    margin: 20px auto;
+    color: white;
+    background-image: url(https://elzero.org/wp-content/uploads/2021/02/css-assignment-5-8.png);
+    background-repeat: repeat-y;
+    background-position: right;
+    background-size: 80%;
+    background-color: #ccc;
+}
+.assign-4-shape-3 {
+    width: 400px;
+    height: 400px;
+    padding: 20px;
+    margin: 20px auto;
+    color: white;
+    background-image: url(https://elzero.org/wp-content/uploads/2021/02/css-assignment-5-8.png);
+    background-repeat: repeat-x;
+    background-position: bottom;
+    background-size: 80%;
+    background-color: #ccc;
+}
+.assign-4-shape-4 {
+    width: 400px;
+    height: 400px;
+    padding: 20px;
+    margin: 20px auto;
+    color: white;
+    background-image: url(https://elzero.org/wp-content/uploads/2021/02/css-assignment-5-8.png);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    background-color: #ccc;
+}

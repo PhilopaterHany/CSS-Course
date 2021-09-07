@@ -1,0 +1,99 @@
+.main {
+    width: 550px;
+    height: 320px;
+    margin: 0 auto;
+    font: bold 20px sans-serif;
+}
+.main .base,
+.main .paid {
+    width: calc((100% - 110px) / 2);
+    height: 300px;
+    position: relative;
+    float: left;
+    background-color: #eee;
+    margin: 20px 20px 0;
+}
+.base div,
+.paid div {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    bottom: 15px;
+    left: 10px;
+    background-color: #d8d7d7f7;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -o-border-radius: 50%;
+    border-radius: 50%;
+}
+.base div::before {
+    content: "Basic";
+    position: absolute;
+    background-color: #b00020;
+    color: #fff;
+    width: 180px;
+    text-align: center;
+    padding: 15px;
+    margin-left: 17px;
+    top: -70px;
+    left: -22.25px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -o-border-radius: 10px;
+    border-radius: 10px;
+}
+.base div::after {
+    content: "Free";
+    position: absolute;
+    font-size: 25px;
+    top: 82px;
+    left: 75px;
+}
+.paid div::before {
+    content: "Pro";
+    position: absolute;
+    top: -70px;
+    left: -5px;
+    width: 180px;
+    padding: 15px;
+    background-color: #b00020;
+    color: #fff;
+    text-align: center;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -o-border-radius: 10px;
+    border-radius: 10px;
+}
+.paid div::after {
+    content: "$30";
+    position: absolute;
+    font-size: 25px;
+    top: 82px;
+    left: 75px;
+}
+.or {
+    position: relative;
+    left: -265px;
+    display: inline-block;
+    background-color: #b00020;
+    width: 2px;
+    height: 300px;
+    margin: 20px 5px 0 5px;
+}
+.or::after {
+    content: "OR";
+    font: normal 14px sans-serif;
+    padding: 5px;
+    width: 20px;
+    position: absolute;
+    top: 150px;
+    left: -13px;
+    background-color: #b00020;
+    color: #fff;
+    text-align: center;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    border-radius: 50%;
+}

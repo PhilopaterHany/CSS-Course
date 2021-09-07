@@ -1,0 +1,28 @@
+@keyframes spin {
+    to {
+        -webkit-transform: rotate(360deg);
+        -moz-transform: rotate(360deg);
+        -ms-transform: rotate(360deg);
+        -o-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+span {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+span:before {
+    content: "";
+    position: relative;
+    width: 50px;
+    height: 50px;
+    background-color: #ddd;
+    border: 7px solid #009688;
+    border-left-color: #ddd;
+    border-radius: 50%;
+    animation-name: spin;
+    animation-duration: 1s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}

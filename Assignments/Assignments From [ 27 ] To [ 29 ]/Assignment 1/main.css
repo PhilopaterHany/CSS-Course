@@ -1,0 +1,33 @@
+.parent {
+    width: 800px;
+    margin: 20px auto;
+    font: bold 16px Helvetica;
+    background-color: #ddd;
+}
+p {
+    float: left;
+    margin: 15px 0 0 15px;
+    padding: 15px 0;
+    text-align: center;
+    color: #fff;
+}
+.clear {
+    clear: both;
+}
+.full p {
+    width: calc(100% - 30px);
+    background-color: #b00020;
+}
+.third p {
+    width: calc((100% - 60px) / 3);
+    background-color: #009688;
+}
+.half p {
+    width: calc((100% - 45px) / 2);
+    background-color: #e91e63;
+}
+.quarter p {
+    width: calc((100% - 75px) / 4);
+    background-color: #e55100;
+    margin-bottom: 15px;
+}

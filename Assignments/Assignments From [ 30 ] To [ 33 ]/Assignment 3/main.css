@@ -1,0 +1,49 @@
+.main {
+    width: 400px;
+    background-color: #eee;
+    margin: 10px auto;
+    padding: 5px;
+    font: bold 16p Tahoma;
+    border: 2px solid #ccc;
+}
+.lang1,
+.lang2,
+.lang3 {
+    list-style-type: none;
+    padding: 10px;
+    border: 10px solid white;
+}
+.main .lang1 ol li,
+.main .lang2 ol li {
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #eee;
+    margin-top: 5px;
+}
+.lang1 .list1 {
+    list-style-type: decimal;
+}
+.lang1 .list2 {
+    list-style-type: decimal;
+}
+.lang1 .list3 {
+    list-style-type: decimal;
+}
+.lang2 .list1 {
+    list-style-type: upper-roman;
+}
+.lang2 .list2 {
+    list-style-type: upper-roman;
+}
+.lang2 .list3 {
+    list-style-type: upper-roman;
+}
+.main .lang3 ol li,
+.main .lang3 ul li {
+    background-color: #fff;
+    border: 1px solid #eee;
+    padding: 10px;
+    margin-left: -40px;
+    margin-top: 5px;
+    list-style-position: inside;
+}
