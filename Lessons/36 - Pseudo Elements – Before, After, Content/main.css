@@ -1,0 +1,43 @@
+.parent {
+    margin-bottom: 20px;
+    overflow: hidden;
+}
+.one {
+    background-color: #eee;
+    padding: 10px;
+    width: 600px;
+    float: left;
+    position: relative;
+}
+.one::after {
+    content: "";
+    position: absolute;
+    width: 5px;
+    height: 100%;
+    right: -10px;
+    top: 0;
+    background-color: #009688;
+}
+.one::before {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: -20px;
+    width: 0;
+    height: 0;
+    background-color: white;
+    margin-top: -10px;
+    border-style: solid;
+    border-width: 10px;
+    border-color: transparent #009688 transparent transparent;
+}
+.user {
+    background-color: #eee;
+    width: 50px;
+    margin-right: 20px;
+    padding: 10px;
+    height: 55.5px;
+    float: left;
+    font-size: 50px;
+    text-align: center;
+}

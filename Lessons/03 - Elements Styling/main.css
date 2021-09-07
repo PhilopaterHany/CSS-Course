@@ -1,0 +1,10 @@
+/*
+    Target All Paragraphs
+*/
+
+p {
+    color: green;
+}
+p {
+    color: red;
+}

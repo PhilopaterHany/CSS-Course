@@ -1,0 +1,15 @@
+/*
+    border-radius: 1 value  => All corners have the same value
+    border-radius: 2 values => This property is used to set first value as top-left and bottom right corner and second value as top right and bottom left corners.
+    border-radius: 3 values => This property is used to set first value to top-left corner, second value applied to top-right and bottom left corners and third value applied to bottom right corner. 
+    border-radius: 4 values => This property is used to set first, second, third and fourth value of border radius to top-left, top-right, bottom-right and bottom-left corners respectively.
+*/
+div {
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    margin: 20px auto;
+    border-radius: 6px;
+    /* border-top-left-radius: 20px 20px; */
+    /* border-bottom-right-radius: 20px; */
+}

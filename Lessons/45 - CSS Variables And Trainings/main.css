@@ -1,0 +1,34 @@
+/*
+    CSS Variables
+        - Global Variable
+        - Local Variable
+        var(Variable Name, Fall Back Value)
+*/
+
+:root {
+    --mainColor: blue;
+    --mainPadding: 10px;
+}
+.main {
+    background-color: var(--mainColor, black);
+    color: white;
+    padding: calc(20px + var(--mainPadding));
+}
+h2 {
+    color: var(--mainColor);
+    background-color: #eee;
+    padding: var(--mainPadding);
+}
+p {
+    color: var(--mainColor);
+    border: 2px solid var(--mainColor);
+    padding: var(--mainPadding);
+}
+a:hover {
+    color: var(--mainColor);
+}
+.local {
+    --mainColor: black;
+    background-color: var(--mainColor);
+    color: white;
+}

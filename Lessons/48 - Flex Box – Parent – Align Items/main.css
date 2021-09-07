@@ -1,0 +1,61 @@
+/*
+    Flexible Box
+        For Parent
+            - display: flex => To Start Flexible Box
+            - flex-direction: row => Default Value
+            - flex-wrap: nowrap => Default Value
+            - flex-flow: [Flex-Direction] + [Flex-Wrap]
+            ===========================================
+            - justify-content: flex-start => Default Value
+            - align-items: stretch => Default Value
+*/
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.flex {
+    background-color: #eee;
+    width: 600px;
+    padding: 20px;
+    margin: 20px auto;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+.flex div {
+    background-color: #f00;
+    color: white;
+    width: calc(100% / 3);
+    text-align: center;
+    padding: 20px;
+}
+.flex .one,
+.float .one {
+    height: 80px;
+}
+.float {
+    overflow: hidden;
+    background-color: #eee;
+    width: 600px;
+    padding: 20px;
+    margin: 20px auto;
+}
+.float div {
+    background-color: #f00;
+    color: white;
+    float: right;
+    width: calc(100% / 3);
+    text-align: center;
+    padding: 20px;
+}
+.center {
+    background-color: blue;
+    color: white;
+    width: 300px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

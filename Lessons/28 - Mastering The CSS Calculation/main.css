@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+}
+div {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    background-color: #eee;
+    float: left;
+    width: calc((100% - 60px) / 5);
+    margin-left: 10px;
+}
+/*
+    - Content Width Is: 100%
+    - 6 Spaces = 10px * 6 => 60px (From Content Width)
+    - Available Space => 100% - 60px
+    - 5 Elements => Width Of Each = (100% - 60px) / 5
+*/

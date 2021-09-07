@@ -1,0 +1,19 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.parent {
+    width: 600px;
+    overflow: hidden;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #ddd;
+}
+.one {
+    background-color: #eee;
+    width: 300px;
+    float: left;
+    padding: 10px;
+    border: 1px solid red;
+}

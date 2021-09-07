@@ -1,0 +1,18 @@
+div {
+    background-color: #ddd;
+
+    /* Top Right Bottom Left */
+    /* 10px 10px 10px 10px */
+    /* padding: 10px; */
+
+    /* Top Right Bottom Left */
+    /* 10px 20px 10px 20px */
+    /* padding: 10px 20px; */
+
+    /* Top Right Bottom Left */
+    /* 10px 20px 15px 20px */
+    /* padding: 10px 20px 15px; */
+
+    padding-bottom: 10px;
+    padding-top: 10px;
+}

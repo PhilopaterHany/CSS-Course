@@ -1,0 +1,6 @@
+div {
+    background-color: red;
+    padding: 10px;
+    display: inline-block;
+    max-width: 400px;
+}

@@ -1,0 +1,23 @@
+/*
+
+    Block
+        - Take Full Width If No Width
+        - Add Line Break
+        - Respect Padding, Margin, Width, Height
+
+    Inline
+        - Do Not Repsepct Width, Height
+        - Respect Padding And Margin [ Just Wight + Left ]
+        - Do Not Add Line Break
+        - Allow Elements Before And After It in The Same Line
+
+    Inline-Block
+        - Allow Elements Before And After It in The Same Line
+        - Respect Padding, Margin, Width, Height
+
+*/
+
+span {
+    background-color: #eee;
+    display: inline-block;
+}
