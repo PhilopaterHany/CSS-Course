@@ -48,7 +48,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 010 - [Outline]()
 
----
+### .
 
 &nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 011 - [Display – Block, Inline-Block, Inline]()
 
@@ -74,7 +74,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 021 - [Text – Overflow And Use Cases]()
 
----
+### Inheritance
 
 &nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 022 - [Inheritance]()
 
@@ -86,7 +86,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 025 - [Typography – Font Style And Variant And Weight]()
 
----
+### .
 
 &nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 026 - [Mouse Cursor]()
 
@@ -114,7 +114,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 037 - [Pseudo Elements – Content And Trainings]()
 
----
+### .
 
 &nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 038 - [Vendor Prefixes]()
 
@@ -150,7 +150,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 053 - [Flex Box – Finish The Flex Froggy Game]()
 
----
+### Filters & Color Gradients & Pointer Events - Color
 
 &nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 054 - [Filters]()
 
