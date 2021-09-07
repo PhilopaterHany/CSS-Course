@@ -1,0 +1,51 @@
+div {
+    position: relative;
+    margin: 10px auto;
+    text-align: center;
+    background-color: #ddd;
+    width: 600px;
+    padding: 20px;
+    font-size: 35px;
+    font-weight: bold;
+    letter-spacing: 5px;
+    border: 10px solid;
+    border-color: transparent #673ab7 transparent #f44336;
+}
+div::before,
+div::after {
+    content: "";
+    position: absolute;
+    left: -10px;
+    width: calc(100% + 20px);
+    height: 10px;
+    background: linear-gradient(
+        to right,
+        #f44336 0% 20%,
+        #2196f3 20% 40%,
+        #4caf50 40% 60%,
+        #e91e63 60% 80%,
+        #673ab7 80% 100%
+    );
+}
+div::before {
+    top: -10px;
+}
+div::after {
+    bottom: -10px;
+}
+/*
+    Another Solution, You Dont Need Before And After:
+    - Put This To div style:
+        border-image: linear-gradient(
+        to right,
+        #f44336 0% 20%,
+        #2196f3 20% 40%,
+        #4caf50 40% 60%,
+        #e91e63 60% 80%,
+        #673ab7 80% 100%
+        );
+        border-image-slice: 1;
+*/
+div::first-letter {
+    color: #f00;
+}

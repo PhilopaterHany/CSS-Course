@@ -1,0 +1,22 @@
+.grid {
+    background-color: #ddd;
+    padding: 20px;
+    width: 800px;
+    height: 400px;
+    margin: 10px auto;
+    display: grid;
+    grid: 50px 1fr / repeat(3, 1fr);
+    gap: 20px;
+}
+.grid div {
+    background-color: #0097a7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    counter-increment: el-count;
+}
+.grid div::before {
+    content: "Element " counter(el-count);
+    color: #fff;
+    font: bold 20px sans-serif;
+}

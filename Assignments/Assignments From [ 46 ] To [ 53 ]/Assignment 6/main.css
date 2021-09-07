@@ -1,0 +1,90 @@
+:root {
+    --mainBgColor: #aaa;
+    --mainTextColor: #dc143c;
+    --mainPadding: 15px;
+    --mainMargin: 10px;
+    --mainArea-Height: 74vh;
+    --mainFontSize: 17px;
+    --mainFamily: sans-serif;
+    --mainWeight: bold;
+    --mainTextStyle: italic;
+    --mainTextDec: underline;
+    --mainTextDecStyle: double;
+}
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+.page {
+    background-color: #ccc;
+    width: 100vw;
+    height: 100vh;
+}
+.page .header {
+    display: flex;
+    justify-content: space-between;
+    flex-flow: row wrap;
+}
+.page .header .logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;
+    background-color: var(--mainBgColor);
+    margin: var(--mainMargin);
+    padding: var(--mainPadding);
+    font: var(--mainWeight) var(--mainFontSize) var(--mainFamily);
+}
+.page .header .links {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    flex-basis: calc(90% - 100px);
+    background-color: var(--mainBgColor);
+    margin: var(--mainMargin);
+    padding: var(--mainPadding);
+    font: var(--mainWeight) var(--mainFontSize) var(--mainFamily);
+}
+.page .header .links li {
+    list-style-type: none;
+    display: inline-block;
+    margin-left: var(--mainMargin);
+}
+.page .main-area {
+    display: flex;
+}
+.page .main-area .content {
+    flex-basis: calc(70% - 10px);
+    height: var(--mainArea-Height);
+    background-color: var(--mainBgColor);
+    margin: var(--mainMargin);
+    padding: var(--mainPadding);
+    font: var(--mainWeight) var(--mainFontSize) var(--mainFamily);
+}
+.page .main-area .sidebar {
+    flex-basis: calc(30% - 10px);
+    height: var(--mainArea-Height);
+    background-color: var(--mainBgColor);
+    margin: var(--mainMargin);
+    padding: var(--mainPadding);
+    font: var(--mainWeight) var(--mainFontSize) var(--mainFamily);
+}
+.page .footer {
+    display: flex;
+    justify-content: space-between;
+    background-color: var(--mainBgColor);
+    margin: var(--mainMargin);
+    padding: var(--mainPadding);
+}
+.page .footer .copyright,
+.page .footer .design {
+    font: var(--mainWeight) var(--mainFontSize) var(--mainFamily);
+}
+span,
+.el0 {
+    font: var(--mainWeight) var(--mainTextStyle) var(--mainFontSize)
+        var(--mainFamily);
+    text-decoration: var(--mainTextDec);
+    text-decoration-style: var(--mainTextDecStyle);
+    color: var(--mainTextColor);
+}
