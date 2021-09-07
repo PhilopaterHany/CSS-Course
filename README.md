@@ -239,7 +239,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 088 - [The End And How To Master HTML And CSS]()
 
 ---
----
 
 ## Assignments
 
