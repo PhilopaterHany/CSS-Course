@@ -48,15 +48,19 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 10 - [Outline](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/10%20-%20Outline)
 
-### .
+### Element Display & Visibility
 
 &nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 11 - [Display – Block, Inline-Block, Inline](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/11%20-%20Display%20%E2%80%93%20Block%2C%20Inline-Block%2C%20Inline)
 
 &nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 12 - [Element Visibility And Use Case](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/12%20-%20Element%20Visibility%20And%20Use%20Case)
 
+### Styling Tips & Tricks
+
 &nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 13 - [Grouping Multiple Selectors](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/13%20-%20Grouping%20Multiple%20Selectors)
 
 &nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 14 - [Nesting](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/14%20-%20Nesting)
+
+### Element Dimensions & Overflow
 
 &nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 15 - [Dimensions – Width And Height](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/15%20-%20Dimensions%20%E2%80%93%20Width%20And%20Height)
 
@@ -86,7 +90,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 25 - [Typography – Font Style And Variant And Weight](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/25%20-%20Typography%20%E2%80%93%20Font%20Style%20And%20Variant%20And%20Weight)
 
-### .
+### Mix
 
 &nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 26 - [Mouse Cursor](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/26%20-%20Mouse%20Cursor)
 
@@ -99,6 +103,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 30 - [Position](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/30%20-%20Position)
 
 &nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 31 - [Z-Index](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/31%20-%20Z-Index)
+
+### Styling HTML Tags (ul ol table)
 
 &nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 32 - [List Styling](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/32%20-%20List%20Styling)
 
@@ -114,7 +120,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 37 - [Pseudo Elements – Content And Trainings](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/37%20-%20Pseudo%20Elements%20%E2%80%93%20Content%20And%20Trainings)
 
-### .
+### Mix
 
 &nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 38 - [Vendor Prefixes](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/38%20-%20Vendors%20Prefixes)
 
@@ -129,6 +135,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 43 - [!important Declaration And Use Cases](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/43%20-%20!Important%20Declaration%20And%20Use%20Cases)
 
 &nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 44 - [The Margin Collapse](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/44%20-%20The%20Margin%20Collapse)
+
+### Variables
 
 &nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 45 - [CSS Variables And Trainings](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/45%20-%20CSS%20Variables%20And%20Trainings)
 
