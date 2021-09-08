@@ -104,7 +104,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 31 - [Z-Index](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/31%20-%20Z-Index)
 
-### Styling HTML Tags (ul ol table)
+### Styling HTML Tags (ul ol dl & table)
 
 &nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 32 - [List Styling](https://github.com/PhilopaterHany/CSS-Course/tree/main/Lessons/32%20-%20List%20Styling)
 
