@@ -6,9 +6,17 @@ div {
     background-color: #d4d4d4;
     font-size: 20px;
 }
-div:first-letter {
-    font-size: 0px;
-    /*   OR   */
+div::first-letter {
+  padding: 15px 10px;
+  background-color: #009688;
+  color: #fff;
+  margin-left: -32px;
+}
+
+/*
+  - Another Solution
+
+div::first-letter {
     visibility: hidden;
 }
 div::before {
@@ -20,3 +28,4 @@ div::before {
     background-color: #009688;
     color: #fff;
 }
+*/
