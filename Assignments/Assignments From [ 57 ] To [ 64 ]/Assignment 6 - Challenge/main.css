@@ -23,7 +23,7 @@ body {
         "four five five three"
         "four six six three"
         "seven eight nine ten";
-    grid-gap: 15px;
+    gap: 15px;
     margin: 20px;
 }
 .layout div {
