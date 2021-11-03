@@ -8,8 +8,9 @@ div {
     padding: 15px;
     background: #eee;
     color: #ff5722;
-    border-left: 7px solid #03a9f4;
-    border-right: 7px solid #ff5722;
+    box-shadow: 7px 0 0 #ff5722, -7px 0 #03a9f4;
+    /* border-left: 7px solid #03a9f4; */
+    /* border-right: 7px solid #ff5722; */
     font: bold 26px sans-serif;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
