@@ -297,7 +297,7 @@
 ## Assignments Live Preview
 
 |                          Assignment                          |                                                                      Live Preview Link                                                                      |
-| :----------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------: | --- |
+| :----------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Assignments For Lessons From [ 01 ] To [ 04 ] - Assignment 1 |                                                                         No Preview                                                                          |
 | Assignments For Lessons From [ 01 ] To [ 04 ] - Assignment 2 | [Live Preview](https://philopaterhany.github.io/CSS-Course/Assignments/Assignments%20From%20%5B%2001%20%5D%20To%20%5B%2004%20%5D/Assignment%202/index.html) |
 | Assignments For Lessons From [ 01 ] To [ 04 ] - Assignment 3 |                                                                         No Preview                                                                          |
