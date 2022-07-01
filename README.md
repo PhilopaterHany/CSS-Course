@@ -396,6 +396,8 @@
 
 ---
 
+### Special Thanks To [Osama Elzero](https://www.youtube.com/user/OsamaElzero)
+
 ### Made With :heart: By Philopater Hany
 
 ### Check My [codepen.io](https://codepen.io/Rafay12/collections/?grid_type=list) Profile
