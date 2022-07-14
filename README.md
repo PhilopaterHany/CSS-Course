@@ -391,7 +391,7 @@
 | Assignments For Lessons From [ 83 ] To [ 85 ] - Assignment 2 | [Live Preview](https://philopaterhany.github.io/CSS-Course/Assignments/Assignments%20From%20%5B%2083%20%5D%20To%20%5B%2085%20%5D/Assignment%202/index.html) |
 | Assignments For Lessons From [ 83 ] To [ 85 ] - Assignment 3 | [Live Preview](https://philopaterhany.github.io/CSS-Course/Assignments/Assignments%20From%20%5B%2083%20%5D%20To%20%5B%2085%20%5D/Assignment%203/index.html) |
 |                              -                               |                                                                              -                                                                              |
-| Assignments For Lessons From [ 86 ] To [ 88 ] - Assignment 1 | [Live Preview](https://philopaterhany.github.io/CSS-Course/Assignments/Assignments%20From%20%5B%2086%20%5D%20To%20%5B%2088%20%5D/Assignment%201/index.html) |
+| Assignments For Lessons From [ 86 ] To [ 88 ] - Assignment 1 | No Preview |
 | Assignments For Lessons From [ 86 ] To [ 88 ] - Assignment 2 | [Live Preview](https://philopaterhany.github.io/CSS-Course/Assignments/Assignments%20From%20%5B%2086%20%5D%20To%20%5B%2088%20%5D/Assignment%202/index.html) |
 
 ---
