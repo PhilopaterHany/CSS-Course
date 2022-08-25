@@ -1,0 +1,70 @@
+:root {
+    --main-padding: 15px;
+    --main-margin: 10px;
+    --main-text: #dc143c;
+    --main-background: #aaa;
+}
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    height: 100vh;
+    font-weight: bold;
+    font-family: sans-serif;
+    background-color: #ccc;
+}
+.page {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 10px;
+}
+.page .header {
+    display: flex;
+    gap: 10px;
+}
+.page .header .logo {
+    padding: var(--main-padding);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;
+    background-color: var(--main-background);
+}
+.page .header .links {
+    padding: var(--main-padding);
+    display: flex;
+    justify-content: flex-end;
+    width: 90%;
+    background-color: var(--main-background);
+}
+.page .header .links li {
+    display: inline-block;
+    margin: var(--main-margin);
+    list-style-type: none;
+}
+.page .main-area {
+    height: 80%;
+    display: flex;
+    gap: 10px;
+}
+.page .main-area .content {
+    padding: var(--main-padding);
+    width: 80%;
+    height: 100%;
+    background-color: var(--main-background);
+}
+.page .main-area .sidebar {
+    padding: var(--main-padding);
+    width: 20%;
+    height: 100%;
+    background-color: var(--main-background);
+}
+.page .footer {
+    padding: var(--main-padding);
+    display: flex;
+    justify-content: space-between;
+    background-color: var(--main-background);
+}

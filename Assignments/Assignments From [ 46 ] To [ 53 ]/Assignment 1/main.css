@@ -1,0 +1,19 @@
+div {
+    width: 100px;
+    height: 100px;
+    margin: 20px auto;
+    padding: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #eee;
+    color: #ff5722;
+    font: bold 26px sans-serif;
+    border-left: 7px solid #03a9f4;
+    border-right: 7px solid #ff5722;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    border-radius: 50%;
+}

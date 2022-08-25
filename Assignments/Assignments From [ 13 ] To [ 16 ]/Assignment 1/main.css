@@ -1,0 +1,12 @@
+.parent .child .title {
+    color: #f00;
+}
+.parent .title {
+    color: #00f;
+}
+.parent p {
+    color: #339933;
+}
+div.title {
+    color: #339933;
+}

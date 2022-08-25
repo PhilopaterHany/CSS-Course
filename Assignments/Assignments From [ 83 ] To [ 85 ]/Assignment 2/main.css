@@ -1,0 +1,41 @@
+.p2 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.p2 div {
+    box-sizing: border-box;
+    width: 25%;
+    margin-right: 10px;
+    padding: 5px 15px;
+    background-color: #ddd;
+    text-align: center;
+}
+.p2 div h3 {
+    color: #009688;
+}
+@media (max-width: 767px) {
+    .p2 {
+        flex-flow: column;
+    }
+    .p2 div {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .p2 div h3 {
+        color: #000;
+    }
+}
+@media (min-width: 768px) and (max-width: 1120px) {
+    .p2 {
+        flex-flow: row wrap;
+    }
+    .p2 div {
+        width: calc(50% - 10px);
+        margin-bottom: 20px;
+        margin-right: 0;
+    }
+    .p2 div h3 {
+        color: #b00020;
+    }
+}

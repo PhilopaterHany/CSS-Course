@@ -1,0 +1,17 @@
+button {
+    background: transparent;
+    border: none;
+    color: red;
+    font-weight: bold;
+    cursor: pointer;
+}
+/*
+    TIP:
+        - You Can Use An Image As A Cursor
+        - .png Image Is Prefered
+        - You Can't Use .svg or .gif
+        - The Code:
+            .class {
+                cursor: url('path-to-image.png'), auto;	
+            }
+*/

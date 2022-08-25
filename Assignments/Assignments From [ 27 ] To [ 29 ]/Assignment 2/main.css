@@ -1,0 +1,16 @@
+div {
+    width: 300px;
+    margin: 20px auto;
+    padding: 20px;
+    font-size: 1rem;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    background-color: rgb(179, 179, 179);
+}
+.one,
+.two {
+    background-color: rgb(179, 179, 179, 0.1);
+}
+.two {
+    opacity: 0.3;
+}

@@ -1,0 +1,32 @@
+table {
+    width: 700px;
+    margin: auto;
+    text-align: center;
+    font: bold 16px Tahoma;
+    border-bottom: 5px solid #19b56f;
+}
+table thead {
+    color: #fff;
+    background-color: #404040;
+}
+table thead tr td {
+    padding: 10px;
+}
+table tbody {
+    background-color: #eee;
+}
+table tbody tr td img {
+    width: 50px;
+}
+table tbody tr td .btn-view {
+    padding: 5px 10px;
+    color: #fff;
+    border: none;
+    background-color: #03a9f4;
+}
+table tbody tr td .btn-del {
+    padding: 5px 10px;
+    color: #fff;
+    border: none;
+    background-color: #e91e63;
+}

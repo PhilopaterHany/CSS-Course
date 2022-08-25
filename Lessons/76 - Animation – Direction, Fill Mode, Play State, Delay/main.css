@@ -1,0 +1,47 @@
+/*
+    Animation
+        - Iteration Count
+        - Timing Function
+        - Spinner Loading
+*/
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+div {
+    width: 100px;
+    height: 100px;
+    background-color: #e8e3e3;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-left: -50px;
+    margin-top: -50px;
+    animation-name: coloring;
+    animation-duration: 5s;
+    animation-iteration-count: 1;
+    animation-timing-function: linear;
+    animation-direction: reverse;
+    animation-delay: -2s;
+    animation-fill-mode: both;
+    animation-play-state: running;
+    animation: coloring 3s linear 2s infinite reverse;
+}
+div:hover {
+    animation-play-state: paused;
+}
+@keyframes coloring {
+    0% {
+        background-color: red;
+    }
+    50% {
+        background-color: blue;
+    }
+    100% {
+        background-color: black;
+    }
+}

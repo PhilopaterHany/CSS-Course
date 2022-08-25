@@ -1,0 +1,5 @@
+*:first-child
+    ~ div:nth-child(5):not(.no-need, .no-need-2, p
+        + div, :nth-last-of-type(3), :last-child) {
+    color: #f00;
+}

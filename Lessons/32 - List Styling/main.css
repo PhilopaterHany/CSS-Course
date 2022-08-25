@@ -1,0 +1,7 @@
+ul {
+    list-style-type: lower-armenian;
+}
+li {
+    background-color: #eee;
+    margin-bottom: 20px;
+}

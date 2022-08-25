@@ -1,0 +1,7 @@
+div {
+    font-variant: small-caps;
+    font-weight: bold;
+}
+p {
+    text-transform: uppercase;
+}

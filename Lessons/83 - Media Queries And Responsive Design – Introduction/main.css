@@ -1,0 +1,47 @@
+/*
+  Media Queries
+  Responsive Design
+*/
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+.parent {
+    display: flex;
+    width: 1200px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 20px auto;
+}
+.parent > div {
+    background-color: red;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    width: 290px;
+}
+
+@media print {
+    .parent > div {
+        font-size: 100px;
+    }
+}
+
+@media print {
+    .parent > div:first-child {
+        display: none;
+    }
+}
+
+@media (min-width: 1400px) {
+    .parent > div {
+        background-color: blue;
+    }
+}
+
+@media (min-width: 1000px) and (max-width: 1400px) {
+    .parent > div {
+        background-color: blue;
+    }
+}

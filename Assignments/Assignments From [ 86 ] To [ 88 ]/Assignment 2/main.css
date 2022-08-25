@@ -1,0 +1,50 @@
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column wrap;
+}
+.main div {
+    width: 400px;
+    margin: 20px auto;
+    margin-bottom: 40px;
+    padding: 20px;
+    position: relative;
+    text-align: center;
+    font: bold 20px sans-serif;
+    background-color: #ddd;
+}
+.arrow::before {
+    content: "";
+    position: absolute;
+    border: 15px solid;
+    border-color: red green blue black;
+}
+.top::before {
+    position: absolute;
+    top: -30px;
+    left: 50%;
+    margin-left: -15px;
+    border-color: transparent transparent #ddd transparent;
+}
+.right::before {
+    position: absolute;
+    right: -30px;
+    top: 50%;
+    margin-top: -15px;
+    border-color: transparent transparent transparent #ddd;
+}
+.bottom::before {
+    position: absolute;
+    bottom: -30px;
+    left: 50%;
+    margin-left: -15px;
+    border-color: #ddd transparent transparent transparent;
+}
+.left::before {
+    position: absolute;
+    left: -30px;
+    top: 50%;
+    margin-top: -15px;
+    border-color: transparent #ddd transparent transparent;
+}

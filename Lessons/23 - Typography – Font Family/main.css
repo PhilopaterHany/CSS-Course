@@ -1,0 +1,11 @@
+.with-ser {
+    font-family: "Times New Roman", Times, serif;
+}
+.san-ser {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.with-ser,
+.san-ser {
+    background-color: #eee;
+    padding: 10px;
+}

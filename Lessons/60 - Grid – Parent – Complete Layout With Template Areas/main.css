@@ -1,0 +1,58 @@
+/*
+    Grid
+        Parent
+            - display: grid | inline-grid
+            - grid-template-columns: [Number Of Columns In] => [Px, %, Auto, Fraction, Repeat, Mix]
+            - grid-template-rows: [Number Of Rows In] => [Px, %, Auto, Fraction, Repeat, Mix]
+            - gap: [Row Gap] [Column Gap]
+            - justify-content
+            - align-content
+*/
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+ul {
+    list-style: none;
+}
+ul li {
+    display: inline-block;
+}
+.page {
+    height: 100vh;
+    background-color: #eee;
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);
+    grid-template-rows: 50px auto 50px;
+    grid-template-areas:
+        "logo logo nav nav nav nav nav nav nav nav"
+        "cont cont cont cont cont cont cont . side side"
+        "foot foot foot foot foot foot foot foot foot foot";
+}
+h2 {
+    grid-area: logo;
+    background-color: red;
+    color: white;
+}
+nav {
+    grid-area: nav;
+    background-color: blue;
+    color: white;
+}
+section {
+    grid-area: cont;
+    background-color: yellow;
+    color: white;
+}
+aside {
+    grid-area: side;
+    background-color: green;
+    color: white;
+}
+footer {
+    grid-area: foot;
+    background-color: black;
+    color: white;
+}

@@ -1,0 +1,31 @@
+div p {
+    position: relative;
+    background-color: #eee;
+    border-radius: 3px;
+    width: 400px;
+    margin: 30px auto;
+    padding: 20px;
+    font: bold 20px sans-serif;
+    counter-increment: p-counter;
+}
+div p::after {
+    position: absolute;
+    top: 0;
+    background-color: #e91e63;
+}
+div p::before {
+    content: counter(p-counter);
+    position: absolute;
+    top: 0;
+    left: -30px;
+    padding: 20px 15px;
+    color: #fff;
+    background-color: #e91e63;
+}
+div p::after {
+    content: "";
+    right: 0;
+    width: 7px;
+    height: 100%;
+    border-radius: 0 5px 5px 0;
+}

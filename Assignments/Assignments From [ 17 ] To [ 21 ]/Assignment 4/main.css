@@ -1,0 +1,12 @@
+a {
+    display: block;
+    width: 100px;
+    margin: 20px auto;
+    padding: 20px 10px;
+    text-align: center;
+    background-color: #009688;
+    color: #fff;
+    border-bottom: 10px solid #00514a;
+    text-decoration: none;
+    text-transform: capitalize;
+}

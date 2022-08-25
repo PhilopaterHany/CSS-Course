@@ -1,0 +1,43 @@
+:root {
+    --mainColor: #009688;
+}
+h2 {
+    width: 150px;
+    margin-left: -75px;
+    padding: 10px 0;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    color: #fff;
+    text-align: center;
+    z-index: 1;
+    background-color: var(--mainColor);
+}
+h2::before,
+h2::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    height: 100%;
+    z-index: -1;
+}
+h2::before {
+    width: 10%;
+    left: -5.5px;
+    background-color: #fff;
+    -webkit-transform: skewX(15deg);
+    -moz-transform: skewX(15deg);
+    -ms-transform: skewX(15deg);
+    -o-transform: skewX(15deg);
+    transform: skewX(15deg);
+}
+h2::after {
+    width: 6%;
+    left: -7px;
+    background-color: inherit;
+    -webkit-transform: skewX(17deg);
+    -moz-transform: skewX(17deg);
+    -ms-transform: skewX(17deg);
+    -o-transform: skewX(17deg);
+    transform: skewX(17deg);
+}

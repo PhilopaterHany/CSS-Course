@@ -1,0 +1,3 @@
+div *:not(div:last-child, h3, div:first-child) {
+    color: #f00;
+}

@@ -1,0 +1,80 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body {
+    background-color: #eee;
+}
+.layout {
+    display: grid;
+    grid:
+        "one one two three"
+        "four five five three"
+        "four six six three"
+        "seven eight nine ten";
+    grid-gap: 15px;
+    margin: 20px;
+}
+.layout div {
+    padding: 10px;
+    position: relative;
+    border-bottom: 3px solid #ff0266;
+}
+.layout div:after {
+    content: '"';
+    position: absolute;
+    bottom: -20px;
+    right: 15px;
+    color: #777;
+    font-size: 40px;
+    font-style: italic;
+}
+.layout div h5 {
+    color: #959392;
+}
+.layout div p {
+    font-size: 16px;
+}
+.layout div .p1 {
+    font-weight: bold;
+    margin: 10px 0;
+}
+.one,
+.two,
+.four,
+.six,
+.seven,
+.nine,
+.ten {
+    background-color: #fff;
+}
+.three,
+.five,
+.eight {
+    background-color: #000;
+    color: #fff;
+}
+.one,
+.five,
+.six {
+    grid-column-start: span 2;
+}
+.three {
+    grid-row-start: span 3;
+}
+.four {
+    grid-row-start: span 2;
+}
+
+/* Extra Work */
+::-webkit-scrollbar {
+    width: 7px;
+}
+::-webkit-scrollbar-track {
+    background: #eee;
+}
+::-webkit-scrollbar-thumb {
+    background: #ff0266;
+}

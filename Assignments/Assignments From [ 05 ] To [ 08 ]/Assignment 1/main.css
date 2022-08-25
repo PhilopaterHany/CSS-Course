@@ -1,0 +1,27 @@
+.assign-1-shape-1 {
+    width: 500px;
+    margin: 25px auto;
+    padding: 20px;
+    background-color: blueviolet;
+    background-color: #8a2be2;
+    background-color: rgb(138, 43, 226, 1);
+    background-color: hsl(271, 76%, 53%, 100%);
+}
+.assign-1-shape-2 {
+    width: 500px;
+    margin: 25px auto;
+    padding: 20px;
+    background-color: blueviolet;
+    background-color: #8a2be2;
+    background-color: rgb(138, 43, 226, 0.5);
+    background-color: hsl(271, 76%, 53%, 50%);
+}
+.assign-1-shape-3 {
+    width: 500px;
+    margin: 25px auto;
+    padding: 20px;
+    background-color: blueviolet;
+    background-color: #8a2be2;
+    background-color: rgb(138, 43, 226, 0.1);
+    background-color: hsl(271, 76%, 53%, 10%);
+}

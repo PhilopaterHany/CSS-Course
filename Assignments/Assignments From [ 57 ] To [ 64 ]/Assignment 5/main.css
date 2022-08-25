@@ -1,0 +1,19 @@
+.grid {
+    width: 800px;
+    height: 400px;
+    margin: 10px auto;
+    padding: 20px;
+    display: grid;
+    grid: repeat(2, 20px) / repeat(2, 1fr);
+    gap: 15px;
+    align-content: space-between;
+    background-color: #ddd;
+}
+.grid div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    background-color: #2196f3;
+    font: bold 16px sans-serif;
+}

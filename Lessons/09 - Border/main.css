@@ -1,0 +1,10 @@
+div {
+    background-color: #ddd;
+    padding: 10px;
+    width: 70%;
+    margin: auto;
+    border-width: 10px;
+    border-color: red;
+    border-style: solid;
+    border: 10px solid red;
+}

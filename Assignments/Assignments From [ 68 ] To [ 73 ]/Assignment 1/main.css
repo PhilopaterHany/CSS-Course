@@ -1,0 +1,40 @@
+:root {
+    --mainColor: #ff5722;
+}
+h2 {
+    width: 150px;
+    margin-left: -75px;
+    padding: 10px 0;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    color: #fff;
+    text-align: center;
+    z-index: 1;
+    background-color: var(--mainColor);
+}
+h2::before,
+h2::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    background-color: inherit;
+}
+h2::before {
+    -webkit-transform: skew(5deg, 5deg);
+    -moz-transform: skew(5deg, 5deg);
+    -ms-transform: skew(5deg, 5deg);
+    -o-transform: skew(5deg, 5deg);
+    transform: skew(5deg, 5deg);
+}
+h2::after {
+    -webkit-transform: skew(-5deg, -5deg);
+    -moz-transform: skew(-5deg, -5deg);
+    -ms-transform: skew(-5deg, -5deg);
+    -o-transform: skew(-5deg, -5deg);
+    transform: skew(-5deg, -5deg);
+}

@@ -1,0 +1,22 @@
+.one span {
+    display: inline-block;
+    background-color: red;
+    color: white;
+    font-size: 60px;
+    font-weight: bold;
+}
+.two::first-letter {
+    display: inline-block;
+    background-color: red;
+    color: white;
+    font-size: 60px;
+    font-weight: bold;
+}
+.three::first-line {
+    font-weight: bold;
+    color: green;
+}
+::selection {
+    background-color: black;
+    color: yellow;
+}

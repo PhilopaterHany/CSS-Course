@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font: bold 16px sans-serif;
+}
+header::before,
+section::before,
+aside::before,
+footer::before {
+    color: #fff;
+}
+.layout {
+    width: 100vw;
+    height: 100vh;
+    display: grid;
+    grid: 50px 1fr 50px / repeat(10, 1fr);
+}
+header {
+    background-color: #2bae66;
+    grid-column-start: span 10;
+}
+header::before {
+    content: "Header & Logo";
+}
+section {
+    background-color: #fc7233;
+    grid-column-start: span 8;
+}
+section::before {
+    content: "Content";
+}
+aside {
+    background-color: #606060;
+    grid-column-start: span 2;
+}
+aside::before {
+    content: "Sidebar";
+}
+footer {
+    background-color: #00539c;
+    grid-column-start: span 10;
+}
+footer::before {
+    content: "Footer & Copyrights";
+}
